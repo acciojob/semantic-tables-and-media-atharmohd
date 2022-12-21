@@ -1,2 +1,7 @@
-
+table,th,tr,td{
+    border: 1px solid red;
+    background-color: aqua;
+    border-spacing: 0px;
+    text-align: left;
+}
 /* Your CSS Code here. */
